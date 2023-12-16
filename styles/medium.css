@@ -1,0 +1,520 @@
+@media only screen and (min-width: 35rem) {
+
+    #image-logo {
+        width: 55%;
+    }
+
+    #slogan1 h1 {
+        line-height: 10px;
+        font-size: 2.4rem;
+    }
+
+    #slogan1 p {
+        font-size: 1.1rem;
+        width: 50%;
+        margin: 0;
+    }
+
+    div .button {
+        padding: 10px;
+        height: 45px;
+        font-size: 1rem;
+        width: 35%;
+        border-top-left-radius: 12px;
+        border-bottom-left-radius: 6px;
+
+    }
+
+
+    #button-with-arrow>a {
+        left: 31%;
+        height: 56px;
+         width: 56px;
+    }
+
+    #button-with-arrow a::after {
+
+       
+       
+        font-size: 2.6rem;
+       
+      
+      }
+
+
+      #button-with-arrow1>a {
+        left: 29%;
+        height: 56px;
+         width: 56px;
+    }
+
+    #button-with-arrow1 a::after {
+
+       
+       
+        font-size: 2.6rem;
+       
+      
+      }
+
+      #button-with-arrow2>a {
+        left: 29%;
+        height: 56px;
+         width: 56px;
+    }
+
+    #button-with-arrow2 a::after {
+
+       
+       
+        font-size: 2.6rem;
+       
+      
+      }
+
+
+    @-webkit-keyframes run {
+        0% {
+            left: 29%;
+        }
+
+        50% {
+            left: 31%;
+        }
+
+        100% {
+            left: 29%;
+        }
+    }
+
+
+    #container1 {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    #subcontainer1 h2 {
+
+        margin-left: 18%;
+        font-size: 1.4rem;
+    }
+
+    #beleza {
+        width: 22%;
+    }
+
+    #estrela {
+        width: 30%;
+    }
+
+    #subcontainer2 p {
+        font-size: 1rem;
+    }
+
+    #subcontainer3 p {
+        font-size: 1rem;
+    }
+
+    #subcontainer3 {
+        
+        margin-top: 12%;
+      
+      }
+
+      #title1 {
+
+        font-size: 1.1rem;
+
+      }
+    
+      #title2 {
+        font-size: 1.3rem;
+        width: 65%;
+      }
+
+      .module-container .number {
+        font-size: 2.5rem;
+      }
+      
+      .module-container .module-title {
+        font-size: 0.9rem;
+        margin-top: 22%;
+
+      }
+
+      .module-description {
+        font-size: 1rem;
+      }
+
+      .module-container li {
+        font-size: 1rem;  
+      }
+      
+      .module-container ul {
+        margin-top: 1%;
+        margin-left: 60px;
+      }
+
+      .module-container p {
+        font-size: 1rem;
+        margin-top: -4%;
+      }
+
+      #container4{
+        margin-top: 13%;
+        margin-bottom: -18%;
+      }
+
+      #results {
+        font-size: 1.1rem;
+      }
+
+      #results2{
+        font-size: 1.3rem;
+      }
+
+      #subcontainer4-4 .meusSlides p{
+
+        font-size: 2rem;
+        text-align: center;
+
+      }
+
+      .meusSlides img{
+        width: 100%;
+        border: 3px solid #fff;
+        border-radius: 10px;
+      }
+
+      #subcontainer4-4 #mudança{
+        margin-top: 20%;
+      }
+
+
+      #mudança h2{
+  
+        font-family: 'Raleway', sans-serif;
+        font-size: 2rem;
+        color: #fff;
+        text-align: center;
+        font-weight: 400;
+       
+      }
+      
+      #mudança span{
+        animation: glow 1s ease-in-out infinite;
+        font-weight: bold;
+      }
+      
+      #mudança p{
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+        color: #fff;
+        font-size: 1.3rem;
+      }
+      
+      .circles {
+        width: 16px;
+        height: 16px;
+      }
+      
+      #many-circles {
+        margin-left: 8%;
+      }
+
+
+
+      #remove {
+        font-size: 2rem;
+      
+      }
+      
+      #remove1 {
+        font-size: 2rem;
+      }
+
+      #arrow-appear {
+        margin-top: -4%;
+      }
+
+      #container5-title {
+        font-size: 1.4rem;
+      }
+
+      #incluso-subcontent1 {
+        width: 40%;
+        height: 100%;
+        padding: 25px;
+ 
+      }
+
+      #incluso-subcontent1 img {
+        width: 30%;
+      }
+
+      #container6 {
+        background-color: #7D6CC7;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin-top: 3%;
+        box-shadow: 2px 2px 10px black;
+        z-index: 4;
+        padding: 5px;
+        position: relative;
+      }
+      
+      #container6 img {
+        width: 20%;
+        margin: 0 auto;
+      
+      }
+      
+      #container6 h2 {
+        font-size: 1.3rem;
+        margin-left: 0;
+        margin-top: 6%;
+      }
+
+      #container6 ul li {
+        font-family: 'Montserrat', sans-serif;
+        color: #fff;
+        font-size: 1rem;
+        line-height: 20px;
+      
+      
+      }
+      
+      #container6 ul {
+        margin-left: -6%;
+        margin-top: -2%;
+      }
+
+      #container7 p {
+
+        font-size: .9rem;
+        font-weight: 600;
+        margin-left: 5%;
+        margin-top: 6%;
+      }
+      
+      #container7 h2 {
+  
+        font-size: 1.3rem;
+        margin-left: 5%;
+        margin-top: -2%;
+        font-weight: 500;
+      }
+
+      #container7 .w3-left,
+.w3-right,
+.w3-badge {
+
+  font-size: 2rem;
+  margin-top: 6%;
+}
+
+#image-back2 img {
+
+    width: 80%;
+
+  }
+
+  #subcontainer8-1 h2 {
+    font-size: 3rem;
+  }
+  
+  #subcontainer8-1 p {
+    font-size: 1.5rem;
+  }
+
+  #container9{
+    padding-bottom: 10px;
+  }
+
+  #container9 img {
+    width: 20%;
+
+  }
+
+  #alunas {
+    position: relative;
+    left: 2%;
+  }
+
+  #container9 p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+
+  }
+  
+  #container9 h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+
+  }
+
+  #subcontainer10-1 p {
+    font-size: 1.1rem;
+    margin-left: 50px;
+  }
+  
+  #subcontainer10-1 h3 {
+    font-size: 1.2rem;
+    width: 70%;
+    margin-left: 50px;
+    margin-top: -15px;
+  }
+  
+  #subcontainer10-1 ul li {
+    font-size: 1.4rem;
+    line-height: 30px;
+  }
+
+  #vezes {
+    font-size: 2.5rem;
+  }
+  
+  #a-vista {
+    font-size: 1.8rem;
+  }
+
+
+
+  
+#button-with-arrow2>a {
+    left: 61%;
+   
+  
+  
+  }
+  
+  #button-with-arrow2 .button {
+    width: 28%;
+  }
+  
+ 
+  
+  
+  #button-with-arrow2:hover>a {
+    -webkit-animation: linear infinite;
+    -webkit-animation-name: run2;
+    -webkit-animation-duration: 1s;
+  }
+
+  @-webkit-keyframes run2 {
+    0% {
+      left: 59%;
+    }
+  
+    50% {
+      left: 61%;
+    }
+  
+    100% {
+      left: 59%;
+    }
+  }
+  
+  #subcontainer11-1 p {
+    font-family: 'Montserrat', sans-serif;
+    color: #C361C2;
+    font-size: 1.4rem;
+    font-weight: 500;
+  }
+  
+  #subcontainer11-1 h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-top: -22px;
+  
+  }
+
+  #subcontainer11-1 div {
+    margin-left: 2px;
+    margin-top: 7%;
+  }
+
+
+  #subcontainer11-2 p {
+    font-size: 1.3rem;
+    margin: 0 auto;
+    margin-left: 6%;
+  }
+
+  #subcontainer12-1 h3 {
+    font-size: 2.3rem;
+  }
+
+  .question {
+    font-size: 1.5rem;
+  }
+
+  
+  #button-with-arrow3>a {
+    left: 29%;
+    height: 56px;
+    width: 56px;
+    top: 1%;
+}
+
+#button-with-arrow3 a::after {
+    font-size: 2.6rem;
+}
+
+#button-with-arrow3 .button {
+    width: 30%;
+
+}
+
+@-webkit-keyframes run3 {
+    0% {
+      left: 27%;
+    }
+  
+    50% {
+      left: 29%;
+    }
+  
+    100% {
+      left: 27%;
+    }
+  }
+
+  footer p{
+    font-size: 1rem;
+  }
+
+  #incluso-subcontent1 #certificate-img{
+    width: 35%;
+    margin-top: -4%;
+    
+  }
+
+  
+
+
+
+
+
+
+
+   
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
